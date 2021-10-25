@@ -15,6 +15,6 @@ Technologies used:
 
 -JSP
 
--JDBC
-
 -JSTL
+
+-MVC Framework
