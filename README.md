@@ -8,6 +8,7 @@ Shopping Cart:
 
 -URL-rewriting and hidden fields are both used
 
+
 Technologies used:
 
 -Java EE
